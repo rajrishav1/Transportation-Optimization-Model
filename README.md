@@ -1,4 +1,4 @@
-# 🚚 Supply Chain Optimization
+# 🚚 Transportation Optimizer Model
 
 This project focuses on optimizing the supply chain of **Velvét Company**, a global leader in cosmetics and personal care, by minimizing transportation costs and improving delivery efficiency.
 
